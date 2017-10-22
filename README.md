@@ -1,5 +1,7 @@
 # Gilgamesh Platform Proposals
 
+In order to vote on future proposals go to our [Voting dApp](https://vote.gilgameshplatform.com/) and follow the instructions.
+
 ## How to vote from MyEtherWallet
 1. Go to https://www.myetherwallet.com/#contracts 
 2. Select Ropsten Test Network from the Network dropdown, located at top right corner of the screen
