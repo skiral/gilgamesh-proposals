@@ -12,7 +12,7 @@
 5. Select function -> `vote`
 6. In the `proposalId` field put the number of your selection, which is shown as the `ID:` on the voting interface
 7. Send and sign the transaction.
-**Don't send any ETH,GIL or any ERC20 token**
+**Don't send any ETH, GIL or any ERC20 token**
 
 ## How to un vote from MyEtherWallet
 1. follow step 1 to 4 from previous section
