@@ -19,3 +19,5 @@
 2. Select function -> `unVote`
 3. Send and sign the transaction.
 **Don't send any ETH,GIL or any ERC20 token**
+
+Inspired by [District0x](https://district0x.io)
