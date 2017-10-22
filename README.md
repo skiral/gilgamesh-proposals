@@ -5,7 +5,7 @@ Voters can propose a new suggestion by creating an issue on github.
 
 Gilgamesh Voting dApp is based on [CarbonVote](http://carbonvote.com/) implementation and also inspired by [District0x](https://district0x.io).
 
-Voting on more critical decisions such as the economics of the platform won't be supported by the current implementaiton and will implemented after the Aragon Core is launched on the Mainnet, 
+Voting on more critical decisions such as the economics of the platform won't be supported by the current implementaiton and will implemented after the Aragon Core is launched on the Mainnet.
 
 ## How to Vote and Unvote
 
