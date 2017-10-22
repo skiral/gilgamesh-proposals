@@ -22,11 +22,11 @@ Adhere the following guidelines to get an 'Accepted Proposal'
 ## Gilgamesh Proposal Standard
 The Gilgamesh Proposal Standard is a template for proposals to ensure that submissions follow best practices and contain sufficient amount of information, All proposals should be structured as follows:
 
-**Name:** Include the name of the proposed feature, ideally it should be on the title section.
+**Name:** Include the name of the proposed feature, ideally, it should be in the title section.
 
-**Purpose:** Why this feature is needed? what's the problem that is going to solve?  one or two paragraph explanation is sufficient.
+**Purpose:** Why is this feature needed? what's the problem that is going to solve? one or two paragraph explanation is sufficient.
 
-**Description:** Describe how the feature needs to be implemented, and what are the impacted experiences and screens. include sketches or mocks. 
+**Description:** Describe how the feature needs to be implemented, and what are the impacted experiences and screens. include sketches or mocks.
 
 ## Proposal Incentives
 To incentiveze, the submission of high quality and thoughtful Gilgamesh proposals, the following rewards will be issued:
