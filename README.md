@@ -39,7 +39,7 @@ Note: Proposal incentive reward amounts are subject to change any time.
 ## Proposal Labels
 [Proposal Labels](https://github.com/skiral/gilgamesh-proposals/labels) are a great way to identify the nature of the proposal and simplify collaboration.
 
-Note: If you believe that you proposal has been incorrectly labled, Please comment with the correct label or a newly suggested label that better describes your proposal. to expedite, you can always reach out to our community manager on Slack.
+Note: If you believe that you proposal has been incorrectly labled, Please comment with the correct label or a newly suggested label that better describes your proposal. to expedite, you can always reach out to our community manager on [Slack](https://slack.gilgameshplatform.com).
 
 **List of proposal labels:**
 
