@@ -59,6 +59,8 @@ Install the extension and enable the MetaMask on ROPSTEN Network in your browser
 2. **Vote using MyEtherWallet**
 Go to https://www.myetherwallet.com/#contracts and select **"Ropsten Test Network"** from the **"Network"** dropdown located at top right corner of the screen.
 
+- click on the contracts tab
+
 In the **"Contract Address"** field insert Gilgamesh vote smart contract address: `0xf74A2C3C82653F20088B218cBe3101a7Afd21a53`
 
 And enter the following in In the ABI / JSON Interface
