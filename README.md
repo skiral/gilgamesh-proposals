@@ -70,8 +70,7 @@ And enter the following in In the ABI / JSON Interface
 Press `Access` then select function `vote` or `unvote.` Insert the number from the GitHub issue ID of the selected proposal in the `proposalId` field. Send and sign the transaction. **Do NOT send any ETH, GIL or any ERC20 token.**
 
 ## Proposal Incentives
-
-To incentivize the submission of high quality and thoughtful proposals, Gilgamesh will issue **300,000 GIL** for the proposal that receives the most votes in a single voting cycle.
+To incentivize the submission of high quality and thoughtful proposals, Gilgamesh will issue **30,000 GIL** for the proposal that receives the most votes in a single voting cycle.
 
 Proposal incentive reward amounts are subject to change any time.  Any change to the proposal incentive reward amounts will be announced in our [blog](https://blog.gilgameshplatform.com).  
 
